@@ -48,7 +48,9 @@ Unzipped osTicket Installation Folder inside of Azure Virtual Machine (Step-2)
 
 </p>
 <p>
-Installed PHP Manager for IIS inside Virtual Machine (Step-3)
+Installed PHP Manager for IIS inside Virtual Machine (Step-3) - IIS Manager is a graphical user interface (GUI) tool used to manage Internet Information Services (IIS), which is a web server from Microsoft. It allows administrators to configure websites, manage application pools, set up security features, and monitor performance for web applications hosted on Windows servers.
+
+A Graphical User Interface (GUI) is a visual way for users to interact with software or devices, as opposed to text-based interfaces like command-line interfaces (CLI). GUIs use graphical elements such as windows, icons, buttons, and menus to make software easier to use, especially for non-technical users.
 </p>
 <br />
 
@@ -58,7 +60,7 @@ Installed PHP Manager for IIS inside Virtual Machine (Step-3)
 
 </p>
 <p>
-Installed the Rewrite Module for IIS inside Azure VM (Step-4)
+Installed the Rewrite Module for IIS inside Azure VM (Step-4) - The Rewrite Module in osTicket refers to a feature in the web server (like Apache or IIS) that allows for URL rewriting. It enables clean, user-friendly URLs by transforming complex or dynamic URLs into simpler, more readable ones. This module is often required during the installation of osTicket to improve usability and SEO by ensuring URLs are easy to navigate and index.
 </p>
 <br />
 
@@ -88,7 +90,7 @@ Unzipped the PHP Installation Folder straight into the PHP folder we had just cr
 
 </p>
 <p>
-Installed VC Redistributable out of the osTicket Installation Files folder (Microsoft C++ Visuals) (step-7)
+Installed VC Redistributable out of the osTicket Installation Files folder (Microsoft C++ Visuals) (step-7) - Microsoft C++ Visuals, often referring to Microsoft Visual C++ Redistributables, are runtime libraries required to run applications developed using Microsoft Visual C++. These libraries include essential components of C++ like standard libraries, which are needed for software to execute properly on a Windows system. Many programs depend on these redistributables to function correctly.
 </p>
 <br />
 
@@ -98,7 +100,7 @@ Installed VC Redistributable out of the osTicket Installation Files folder (Micr
 
 </p>
 <p>
-After installing MySQL, we ran the application and set a username and password (Step-8)
+After installing MySQL, we ran the application and set a username and password (Step-8) - MySQL is an open-source relational database management system (RDBMS) that uses structured query language (SQL) to manage and manipulate data. It's widely used for web applications and services, supporting large-scale data storage and retrieval. MySQL is known for its speed, reliability, and ease of use, and it is commonly paired with PHP and Apache in the LAMP (Linux, Apache, MySQL, PHP) stack.
 </p>
 <p>
 <br />
@@ -120,7 +122,9 @@ Opened IIS as an admin to begin configuring things inside our webserver (Step-9)
 
 </p>
 <p>
-Registered PHP inside IIS - basically made web server aware of the php file location (Step-10)
+Registered PHP inside IIS - basically made web server aware of the php file location (Step-10) - PHP is a popular open-source scripting language used mainly for web development. It runs on the server and helps create dynamic web pages by interacting with databases and generating HTML.
+
+Registering PHP in IIS means setting up IIS to run PHP scripts, so websites using PHP can work properly on the server.
 </p>
 <p>
 <br />
@@ -142,7 +146,7 @@ Extracted files from osTicket zip folder inside osTickets Installation Files fol
 
 </p>
 <p>
-Copied ostcket-upload folder into C Drive-inetpub-wwwroot Folder and rename Upload to osTicket (Step-12)
+Copied ostcket/"upload folder" into C:/inetpub/wwwroot Folder and renamed "Upload" to "osTicket" (Step-12)
 </p>
 <p>
 <br />
@@ -186,7 +190,7 @@ Used IIS Manager to enable PHP extensions for osTicket (Step-15)
 
 </p>
 <p>
-The PHP Extensions that got enabled in IIS Manager (Step-16)
+The PHP Extensions that got enabled in IIS Manager (Step-16) - PHP extensions are modules that add specific functionalities to PHP, enabling features like database connections, image processing, or encryption. They enhance PHP's capabilities by providing additional functions and classes that developers can use in their applications.
 </p>
 <p>
 <br />
@@ -208,7 +212,7 @@ Observed the extensions that are now enabled on osTickets webpage (Step-17)
 
 </p>
 <p>
-Inside the osTicket-Include Folder we renamed ost-sampleconfig to ost-config (Step-18)
+Inside the osTicket/Include Folder we renamed "ost-sampleconfig" to "ost-config" (Step-18)
 </p>
 <p>
 <br />
@@ -219,7 +223,7 @@ Inside the osTicket-Include Folder we renamed ost-sampleconfig to ost-config (St
 
 </p>
 <p>
-Disabled Inheritance in ost-config file to stip away all current permissions and make our own (Step-19)
+Disabled Inheritance in "ost-config" file to strip away all current permissions and make our own after they are gone (Step-19)
 </p>
 <p>
 <br />
@@ -230,7 +234,7 @@ Disabled Inheritance in ost-config file to stip away all current permissions and
 
 </p>
 <p>
-Created a permission inside ost-config file that allowed everyone full access - not good to do in real life but osTicket needed full control to configuration file for lab (Step-20)
+Created a permission inside "ost-config" file that allowed everyone full access - not good to do in real life but osTicket needed full control to configure file for the lab (Step-20)
 </p>
 <p>
 <br />
@@ -241,7 +245,7 @@ Created a permission inside ost-config file that allowed everyone full access - 
 
 </p>
 <p>
-Continued in osTicket webpage and filled out information for admin account and URL and email (Step-21)
+Continued in osTicket webpage and filled out information for admin account, URL, and email (System Settings) (Step-21)
 </p>
 <p>
 <br />
@@ -252,7 +256,7 @@ Continued in osTicket webpage and filled out information for admin account and U
 
 </p>
 <p>
-Installed Heidi SQL inside osTicket Installation folder to configure a database for osTicket (Step-22)
+Installed Heidi SQL inside osTicket Installation folder to configure a database for osTicket (Step-22) - HeidiSQL is a free, open-source database management tool that allows users to manage and interact with MySQL, MariaDB, and PostgreSQL databases. It provides a user-friendly interface for tasks such as creating, editing, and deleting database tables, running SQL queries, and managing users and permissions, making it easier to work with databases without extensive command-line knowledge.
 </p>
 <p>
 <br />
@@ -263,7 +267,7 @@ Installed Heidi SQL inside osTicket Installation folder to configure a database 
 
 </p>
 <p>
-Opened HeidiSQL and connected to the database then created a new session or database and named it osTicket (Step-23)
+Opened HeidiSQL and connected to the database then created a new session or database and named it "osTicket" (Step-23)
 </p>
 <p>
 <br />
@@ -274,7 +278,7 @@ Opened HeidiSQL and connected to the database then created a new session or data
 
 </p>
 <p>
-Continued in osTicket web page and filled out information for MySQL database to connect to it and began to install (Step-24)
+Continued in osTicket web page and filled out information for MySQL database to get connected and began to install (Step-24)
 </p>
 <p>
 <br />
@@ -296,5 +300,5 @@ Refreshed MySQL osTicket database and observed all of the files that were now in
 
 </p>
 <p>
-Using different URLs we successfully logged onto osTicket as an admin and a local host and completed creating a ticket enviroment simulation (Step-26)
+Using different URLs we successfully logged onto osTicket as "an admin" and "a local host" and completed creating a ticketing-enviroment simulation (Step-26)
 </p>
