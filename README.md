@@ -62,3 +62,22 @@ Unzipped osTicket Installation Folder inside of Azure Virtual Machine (Step-2)
 Installed PHP Manager for IIS inside Virtual Machine (Step-3)
 </p>
 <br />
+
+<p>
+
+![Installed the Rewrite Module for IIS inside Azure VM (Step-4)](https://github.com/user-attachments/assets/444a9b43-783d-4c00-959c-86ec1efb2b50)
+
+</p>
+<p>
+Installed the Rewrite Module for IIS inside Azure VM (Step-4)
+</p>
+<br />
+
+<p>
+
+![Created a folder on the C-Drive inside the Azure VM and named it PHP (Step-5)](https://github.com/user-attachments/assets/e0bd4a30-b4f4-4e30-ab0b-1685e25ff862)
+
+</p>
+<p>
+Created a folder on the C-Drive inside the Azure VM and named it PHP (Step-5)
+</p>
