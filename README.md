@@ -33,25 +33,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/76kVl5H" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Created a Virtual Machine and a Resource Group for the VM inside of Microsoft Azure Cloud Platform (Step-1)](https://github.com/user-attachments/assets/4353db93-b496-424d-b0a9-c0d3184ce349)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a Virtual Machine and a Resource Group for the VM inside of Microsoft Azure Cloud Platform (Step-1)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Unzipped osTicket Installation Folder inside of Azure Virtual Machine (Step-2)](https://github.com/user-attachments/assets/6444d919-289d-4542-9244-0bb3db72d0fe)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Unzipped osTicket Installation Folder inside of Azure Virtual Machine (Step-2)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Installed PHP Manager for IIS inside Virtual Machine (Step-3)](https://github.com/user-attachments/assets/7021b61f-7f13-44cf-9f90-91289aad0770)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installed PHP Manager for IIS inside Virtual Machine (Step-3)
 </p>
 <br />
