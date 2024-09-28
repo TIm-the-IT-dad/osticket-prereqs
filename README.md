@@ -81,3 +81,132 @@ Installed the Rewrite Module for IIS inside Azure VM (Step-4)
 <p>
 Created a folder on the C-Drive inside the Azure VM and named it PHP (Step-5)
 </p>
+<br />
+
+<p>
+
+![Unzipped the PHP Installation Folder straight into the PHP folder we just created on the Virtual Machines C-Drive (Step-6)](https://github.com/user-attachments/assets/3c477847-5435-4fad-9df0-146b2c907ce5)
+
+</p>
+<p>
+Unzipped the PHP Installation Folder straight into the PHP folder we had just created on the Virtual Machines C-Drive (Step-6)
+</p>
+<br />
+
+<p>
+
+![Installed VC Redistributable out of the osTicket Installation Files folder (Microsoft C++ Visuals) (step-7)](https://github.com/user-attachments/assets/cfd7aa3d-67a9-4fc5-b711-f340ac5f9a6e)
+
+</p>
+<p>
+Installed VC Redistributable out of the osTicket Installation Files folder (Microsoft C++ Visuals) (step-7)
+</p>
+<br />
+
+<p>
+
+![After installing MySQL, we ran the application and set a username and password (Step-8)](https://github.com/user-attachments/assets/d8e53096-f2e6-4136-aae9-580632c9ce09)
+
+</p>
+<p>
+After installing MySQL, we ran the application and set a username and password (Step-8)
+</p>
+<p>
+<br />
+
+<p>
+
+![Opened IIS as an admin to begin configuring things inside our webserver (Step-9)](https://github.com/user-attachments/assets/fe1d307a-1d76-4509-950b-24eecfec0ed8)
+
+</p>
+<p>
+Opened IIS as an admin to begin configuring things inside our webserver (Step-9)
+</p>
+<p>
+<br />
+
+<p>
+
+![Registered PHP inside IIS - basically made web server aware of the php file location (Step-10)](https://github.com/user-attachments/assets/1eb38c88-c904-429b-af83-53e5058c1236)
+
+</p>
+<p>
+Registered PHP inside IIS - basically made web server aware of the php file location (Step-10)
+</p>
+<p>
+<br />
+
+<p>
+
+![Extracted files from osTicket zip folder inside osTickets Installation Files folder (Step-11)](https://github.com/user-attachments/assets/81a573f3-7d6c-40ab-bfa1-ccd8946d0284)
+
+</p>
+<p>
+Extracted files from osTicket zip folder inside osTickets Installation Files folder (Step-11)
+</p>
+<p>
+<br />
+
+<p>
+
+![Copied ostcket-upload folder into C Drive-inetpub-wwwroot Folder and rename Upload to osTicket (Step-12)](https://github.com/user-attachments/assets/d7a5a7bc-13df-4518-8816-7461e4a2a7f6)
+
+</p>
+<p>
+Copied ostcket-upload folder into C Drive-inetpub-wwwroot Folder and rename Upload to osTicket (Step-12)
+</p>
+<p>
+<br />
+
+<p>
+
+![Reloaded IIS - Stopped and Restarted web server (Step-13)](https://github.com/user-attachments/assets/6bf9dbbd-b985-44bb-beee-6d94ef1fdd77)
+
+</p>
+<p>
+Reloaded IIS - Stopped and Restarted web server (Step-13) 
+</p>
+<p>
+<br />
+
+<p>
+
+![Loaded osTicket webpage inside IIS Manager (Step-14)](https://github.com/user-attachments/assets/43ad1385-6fd2-4f91-84dc-3354af9a7a6a)
+
+</p>
+<p>
+Loaded osTicket webpage inside IIS Manager (Step-14)
+</p>
+<p>
+<br />
+
+<p>
+
+![Used IIS Manager to enable PHP extensions for osTicket (Step-15)](https://github.com/user-attachments/assets/30bb6e4d-5df8-41e6-8c75-7619293a7a37)
+
+</p>
+<p>
+Used IIS Manager to enable PHP extensions for osTicket (Step-15)
+</p>
+<p>
+<br />
+
+<p>
+
+![The PHP Extensions that got enabled in IIS Manager (Step-16)](https://github.com/user-attachments/assets/c6a85184-4a73-4c20-a42f-54f85023f75e)
+
+</p>
+<p>
+The PHP Extensions that got enabled in IIS Manager (Step-16)
+</p>
+<p>
+<br />
+
+<p>
+
+![Observed the extensions that are now enabled on osTickets webpage (Step-17)](https://github.com/user-attachments/assets/ef26ce20-08ea-4b12-b73d-512010f4c473)
+
+</p>
+<p>
+Observed the extensions that are now enabled on osTickets webpage (Step-17)
+</p>
