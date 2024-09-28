@@ -201,7 +201,7 @@ The PHP Extensions that got enabled in IIS Manager (Step-16) - PHP extensions ar
 
 </p>
 <p>
-Observed the extensions that are now enabled on osTickets webpage (Step-17)
+Observed the extensions that were enabled on osTickets webpage (Step-17)
 </p>
 <p>
 <br />
@@ -223,7 +223,7 @@ Inside the osTicket/Include Folder we renamed "ost-sampleconfig" to "ost-config"
 
 </p>
 <p>
-Disabled Inheritance in "ost-config" file to strip away all current permissions and make our own after they are gone (Step-19)
+Disabled Inheritance in "ost-config" file that stripped away all current permissions to make our own after they were gone (Step-19)
 </p>
 <p>
 <br />
