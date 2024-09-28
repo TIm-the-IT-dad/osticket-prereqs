@@ -210,3 +210,102 @@ The PHP Extensions that got enabled in IIS Manager (Step-16)
 <p>
 Observed the extensions that are now enabled on osTickets webpage (Step-17)
 </p>
+<p>
+<br />
+
+<p>
+
+![Inside the osTicket-Include Folder we renamed ost-sampleconfig to ost-config (Step-18)](https://github.com/user-attachments/assets/994565f6-188a-4351-af7e-36a4352736bc)
+
+</p>
+<p>
+Inside the osTicket-Include Folder we renamed ost-sampleconfig to ost-config (Step-18)
+</p>
+<p>
+<br />
+
+<p>
+
+![Disabled Inheritance in ost-config file to stip away all current permissions and make our own (Step-19)](https://github.com/user-attachments/assets/6012d24a-2cca-4cbc-9953-6aa0d3ba3888)
+
+</p>
+<p>
+Disabled Inheritance in ost-config file to stip away all current permissions and make our own (Step-19)
+</p>
+<p>
+<br />
+
+<p>
+
+![Created a permission inside ost-config file that allowed everyone full access - not good to do in real life but osTicket needed full control to configuration file for lab (Step-20)](https://github.com/user-attachments/assets/9d5e1162-a911-4a24-8fe5-0bdbcd5997d6)
+
+</p>
+<p>
+Created a permission inside ost-config file that allowed everyone full access - not good to do in real life but osTicket needed full control to configuration file for lab (Step-20)
+</p>
+<p>
+<br />
+
+<p>
+
+![Continued in osTicket webpage and filled out information for admin account and URL and email (Step-21)](https://github.com/user-attachments/assets/7bbb416f-b2d3-4b39-a63f-4be230808fa5)
+
+</p>
+<p>
+Continued in osTicket webpage and filled out information for admin account and URL and email (Step-21)
+</p>
+<p>
+<br />
+
+<p>
+
+![Installed Heidi SQL inside osTicket Installation folder to configure a database for osTicket (Step-22)](https://github.com/user-attachments/assets/3aa9d9c5-7dc8-4910-a524-fce84ec76318)
+
+</p>
+<p>
+Installed Heidi SQL inside osTicket Installation folder to configure a database for osTicket (Step-22)
+</p>
+<p>
+<br />
+
+<p>
+
+![Opened HeidiSQL and connected to the database then created a new session or database and named it osTicket (Step-23)](https://github.com/user-attachments/assets/4c91ed69-4284-4132-92c2-27bd2359ea6f)
+
+</p>
+<p>
+Opened HeidiSQL and connected to the database then created a new session or database and named it osTicket (Step-23)
+</p>
+<p>
+<br />
+
+<p>
+
+![Continued in osTicket web page and filled out information for MySQL database to connect to it and began to install (Step-24)](https://github.com/user-attachments/assets/e48f4c63-a5f6-4498-b0f7-32579f556ec4)
+
+</p>
+<p>
+Continued in osTicket web page and filled out information for MySQL database to connect to it and began to install (Step-24)
+</p>
+<p>
+<br />
+
+<p>
+
+![Refreshed MySQL osTicket database and observed all of the files that were now in the osTicket folder (Step-25)](https://github.com/user-attachments/assets/770e5c59-0c79-455b-913d-84ef58c1eda7)
+
+</p>
+<p>
+Refreshed MySQL osTicket database and observed all of the files that were now in the osTicket folder (Step-25)
+</p>
+<p>
+<br />
+
+<p>
+
+![Using different URLs we successfully logged onto osTicket as an admin and a local host and completed creating a ticket enviroment simulation (Step-26)](https://github.com/user-attachments/assets/7e9102ee-4f9a-40dd-ae62-e974526d736d)
+
+</p>
+<p>
+Using different URLs we successfully logged onto osTicket as an admin and a local host and completed creating a ticket enviroment simulation (Step-26)
+</p>
